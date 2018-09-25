@@ -32,4 +32,8 @@
         <item name="android:layout_width">0dp</item>
     </style>
 
+    <style name="MarginStyle">
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
 </resources>
